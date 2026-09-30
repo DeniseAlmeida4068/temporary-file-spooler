@@ -1,6 +1,6 @@
 [project]
 name = "temporary-file-spooler"
-version = "0.1.0"
+version = "0.1.1"
 description = "Writes data to a memory buffer and transparently spills to a temp file when a threshold is exceeded."
 requires-python = ">=3.10"
 dependencies = []
